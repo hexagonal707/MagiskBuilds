@@ -1,14 +1,14 @@
 {
   "app": {
-    "version": "7.3.5-2019092201-ianmacd",
-    "versionCode": "2019092201",
-    "link": "https://github.com/ianmacd/MagiskBuilds/raw/master/MagiskManager-v7.3.5-2019092201-ianmacd.apk",
+    "version": "7.5.1",
+    "versionCode": "20400",
+    "link": "https://github.com/hexagonal707/MagiskBuilds/raw/master/Magisk.apk",
     "note": ""
   },
   "magisk": {
-    "version": "19.5-2019092201-ianmacd",
-    "versionCode": "2019092201",
-    "link": "https://github.com/ianmacd/MagiskBuilds/raw/master/Magisk-v19.5-2019092201-ianmacd.zip",
+    "version": "97b72a59",
+    "versionCode": "20419",
+    "link": "https://github.com/hexagonal707/MagiskBuilds/raw/master/Magisk-97b72a59(20419).zip",
     "note": "https://forum.xda-developers.com/showthread.php?t=3521901",
     "md5": "8c1f13bae769c45852f51a3fbdce4e8e"
   },
